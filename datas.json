@@ -1,0 +1,82 @@
+
+
+[
+  {
+    "bookId": 1,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image":"https://i.ibb.co/dGMQwpg/kindpng-81724-1.png",
+    "review": "A classic novel exploring teenage angst and rebellion.",
+    "totalPages": 224,
+    "rating": 4.2,
+    "category": "Fiction",
+    "tags": ["Psychological", "Coming"],
+    "publisher": "Brown",
+    "yearsOfPublishing": 1951
+  },
+  {
+    "bookId": 2,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/GWr0RYP/kindpng-5624060-1.png",
+    "review": "An exploration of the American Dream and its consequences.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Romance", "Tragedy"],
+    "publisher": "Scribner",
+    "yearsOfPublishing": 1925
+  },
+  {
+    "bookId": 3,
+    "bookName": "Hablu Programing",
+    "author": "George Orwell",
+    "image": "../datas/dataimg/kindpng_7318921.png",
+    "review": "A dystopian novel exploring themes of totalitarianism and surveillance.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political"],
+    "publisher": "Secker & Warburg",
+    "yearsOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": " A Brief History  ",
+    "author": "Yuval Noah Harari",
+    "image": "https://i.ibb.co/cr4hFTd/kindpng-4945926-1.png",
+    "review": "An overview of the history of Homo sapiens.",
+    "totalPages": 443,
+    "rating": 4.8,
+    "category": "Non-fiction",
+    "tags": ["History", "Anthropology"],
+    "publisher": "Harper",
+    "yearsOfPublishing": 2011
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Power of Habit: ",
+    "author": "Charles Duhigg",
+    "image": "https://i.ibb.co/dGMQwpg/kindpng-81724-1.png",
+    "review": "An exploration of the science behind habits and how they can be changed.",
+    "totalPages": 371,
+    "rating": 4.4,
+    "category": "Non-fiction",
+    "tags": ["Psychological", "Selfhelp"],
+    "publisher": "Random House",
+    "yearsOfPublishing": 2012
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "image": "https://i.ibb.co/xDV3vTL/kindpng-2193744-1.png",
+    "review": "A mystery thriller novel revolving around symbology and secret societies.",
+    "totalPages": 454,
+    "rating": 4.0,
+    "category": "Fiction",
+    "tags": ["Thriller", "Conspiracy"],
+    "publisher": "Doubleday",
+    "yearsOfPublishing": 2003
+  }
+]

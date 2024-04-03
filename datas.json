@@ -5,7 +5,7 @@
     "animation": "fade-up",
     "delay": "300",
     "duration": "900",
-    "easing":"ease"
+    "easing":"ease",
     "bookId": 1,
     "bookName": "The Catcher in the Rye",
     "author": "J.D. Salinger",
@@ -22,7 +22,7 @@
     "animation": "fade-up",
     "delay": "400",
     "duration": "900",
-    "easing":"ease"
+    "easing":"ease",
     "bookId": 2,
     "bookName": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
@@ -39,7 +39,7 @@
     "animation": "fade-up",
     "delay": "400",
     "duration": "900",
-    "easing":"ease"
+    "easing":"ease",
     "bookId": 3,
     "bookName": "Hablu Programing",
     "author": "George Orwell",
@@ -56,7 +56,7 @@
     "animation": "fade-up",
     "delay": "400",
     "duration": "900",
-    "easing":"ease"
+    "easing":"ease",
     "bookId": 4,
     "bookName": " A Brief History  ",
     "author": "Yuval Noah Harari",
@@ -70,6 +70,10 @@
     "yearsOfPublishing": 2011
   },
   {
+    "animation": "fade-up",
+    "delay": "400",
+    "duration": "900",
+    "easing":"ease",
     "bookId": 5,
     "bookName": "The Power of Habit: ",
     "author": "Charles Duhigg",
@@ -86,7 +90,7 @@
     "animation": "fade-up",
     "delay": "400",
     "duration": "900",
-    "easing":"ease"
+    "easing":"ease",
     "bookId": 6,
     "bookName": "The Da Vinci Code",
     "author": "Dan Brown",

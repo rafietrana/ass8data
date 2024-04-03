@@ -6,9 +6,6 @@
     "delay": "300",
     "duration": "900",
     "easing":"ease"
-    
-    
-    
     "bookId": 1,
     "bookName": "The Catcher in the Rye",
     "author": "J.D. Salinger",
@@ -22,6 +19,10 @@
     "yearsOfPublishing": 1951
   },
   {
+    "animation": "fade-up",
+    "delay": "400",
+    "duration": "900",
+    "easing":"ease"
     "bookId": 2,
     "bookName": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
@@ -35,6 +36,10 @@
     "yearsOfPublishing": 1925
   },
   {
+    "animation": "fade-up",
+    "delay": "400",
+    "duration": "900",
+    "easing":"ease"
     "bookId": 3,
     "bookName": "Hablu Programing",
     "author": "George Orwell",
@@ -48,6 +53,10 @@
     "yearsOfPublishing": 1949
   },
   {
+    "animation": "fade-up",
+    "delay": "400",
+    "duration": "900",
+    "easing":"ease"
     "bookId": 4,
     "bookName": " A Brief History  ",
     "author": "Yuval Noah Harari",

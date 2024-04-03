@@ -2,6 +2,13 @@
 
 [
   {
+    "animation": "fade-up",
+    "delay": "300",
+    "duration": "900",
+    "easing":"ease"
+    
+    
+    
     "bookId": 1,
     "bookName": "The Catcher in the Rye",
     "author": "J.D. Salinger",
@@ -67,6 +74,10 @@
     "yearsOfPublishing": 2012
   },
   {
+    "animation": "fade-up",
+    "delay": "400",
+    "duration": "900",
+    "easing":"ease"
     "bookId": 6,
     "bookName": "The Da Vinci Code",
     "author": "Dan Brown",
